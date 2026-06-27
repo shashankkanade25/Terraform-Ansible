@@ -1,0 +1,4 @@
+.terraform.lock.hcl
+terra-key-ansible
+terraform.tfstate
+.terraform/*
